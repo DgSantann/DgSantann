@@ -1,5 +1,5 @@
 
-### Olá! eu sou o João Paulo🖳👋🏽
+### Olá! eu sou o João Paulo 🖳👋🏽
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santanna_jp21?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 
