@@ -7,6 +7,8 @@
 ![JP Github stats](https://github-readme-stats.vercel.app/api?username=DgSantann&show_icons=true&theme=gruvbox)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantann)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que uso no meu dia a dia !!
 
 <div style="display: inline-block"><br>
