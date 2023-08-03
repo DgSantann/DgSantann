@@ -21,4 +21,4 @@
 
 Estudando WebfullStack na Escola DNC , apaixonado por tecnologia que muda a vida das pessoas!!
 ### Contatos 
-- [LinkedIn](www.linkedin.com/in/joão-paulo-sant-anna-soares-405572275)<br>
+- [LinkedIn](https://www.linkedin.com/in/joão-paulo-sant-anna-soares-405572275)<br>
